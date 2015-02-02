@@ -10,5 +10,6 @@ public interface Voto {
 		public String getSituacion(); //Trabajador o parado?
 		public String getNacionalidad();
 		public Comunidad getComunidad();
+        public String getEstado();
 		
-}
+}
